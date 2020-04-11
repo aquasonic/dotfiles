@@ -1,0 +1,9 @@
+[alias]
+	l = log --oneline -n 20 --graph --abbrev-commit --decorate
+[core]
+	autocrlf = true
+[credential]
+	helper = wincred
+[user]
+	name = Kevin Brechbühl
+	email = mail@aquasonic.ch
