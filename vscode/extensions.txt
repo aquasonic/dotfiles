@@ -1,0 +1,8 @@
+eamodio.gitlens
+esbenp.prettier-vscode
+ms-dotnettools.csharp
+ms-vscode.powershell
+ms-vscode.vscode-typescript-tslint-plugin
+ms-vsliveshare.vsliveshare
+PKief.material-icon-theme
+rbbit.typescript-hero
